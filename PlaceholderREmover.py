@@ -7,4 +7,5 @@ for root, dirs, files in os.walk('.'):
 
     for file in files:
         if file == '.gitkeep':
+            print(root)
             os.remove(os.path.join(root, file))
