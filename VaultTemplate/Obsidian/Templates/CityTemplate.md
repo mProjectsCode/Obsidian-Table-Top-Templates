@@ -16,4 +16,16 @@ tags: [Location, City]
 ## Politics
 - **Leader:** 
 - **Leading Faction:** 
-- 
+- **Leading Race:** 
+
+
+## Demographics
+- Common Races
+    - ...
+- ...
+
+## Climate
+
+## History
+
+## Other

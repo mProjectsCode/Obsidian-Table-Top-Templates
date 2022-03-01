@@ -1,7 +1,7 @@
 ---
 type: NPC
 name: <% tp.file.title %>
-affilliation: 
+affiliation: 
 tags: [Creature, NPC]
 ---
 
